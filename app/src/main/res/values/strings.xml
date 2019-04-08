@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application1</string>
+    <string name="portal_url">https://www.arcgis.com/</string>
+    <string name="buildings_brest">a13c3c3540144967bc933cb5e498b8e4</string>
+    <string name="item_photo_dir">photo</string>
+    <string name="baseMapDir">baseMap</string>
+</resources>
